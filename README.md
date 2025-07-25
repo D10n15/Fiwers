@@ -1,12 +1,12 @@
 
-# 📄 Documento Descriptivo del Proyecto — **Fiwers**
+# 📄 Documento Descriptivo del Proyecto — Fiwers
 
-## 🧠 Nombre del Proyecto:
+## 🧠Proyecto:
 **Fiwers** — Plataforma Web para Centralizar y Monetizar Ideas, Productos y Proyectos Creativos.
 
 ## 🎯 Objetivo del Proyecto:
 
-**Fiwers** es una aplicación web moderna desarrollada con tecnologías actuales como **React**, **Vite** y **TypeScript**, enfocada en brindar una experiencia fluida y centralizada para gestionar múltiples servicios, productos o ideas en un solo lugar.  
+Fiwers es una aplicación web moderna desarrollada con tecnologías actuales como **React**, **Vite** y **TypeScript**, enfocada en brindar una experiencia fluida y centralizada para gestionar múltiples servicios, productos o ideas en un solo lugar.  
 El propósito principal es crear una **plataforma de presentación y conexión** entre creadores, productos digitales, inversiones y estrategias de monetización.
 
 ## 🏗️ Estructura General:
